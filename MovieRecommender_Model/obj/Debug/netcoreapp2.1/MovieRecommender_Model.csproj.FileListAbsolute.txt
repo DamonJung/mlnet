@@ -1,0 +1,14 @@
+E:\ReferenceSource\ML.NET-master\machinelearning-samples-master\samples\csharp\end-to-end-apps\Recommendation-MovieRecommender\MovieRecommender_Model\bin\Debug\netcoreapp2.1\Data\ratings.csv
+E:\ReferenceSource\ML.NET-master\machinelearning-samples-master\samples\csharp\end-to-end-apps\Recommendation-MovieRecommender\MovieRecommender_Model\bin\Debug\netcoreapp2.1\Data\ratings_test.csv
+E:\ReferenceSource\ML.NET-master\machinelearning-samples-master\samples\csharp\end-to-end-apps\Recommendation-MovieRecommender\MovieRecommender_Model\bin\Debug\netcoreapp2.1\Data\ratings_train.csv
+E:\ReferenceSource\ML.NET-master\machinelearning-samples-master\samples\csharp\end-to-end-apps\Recommendation-MovieRecommender\MovieRecommender_Model\bin\Debug\netcoreapp2.1\MovieRecommender_Model.deps.json
+E:\ReferenceSource\ML.NET-master\machinelearning-samples-master\samples\csharp\end-to-end-apps\Recommendation-MovieRecommender\MovieRecommender_Model\bin\Debug\netcoreapp2.1\MovieRecommender_Model.runtimeconfig.json
+E:\ReferenceSource\ML.NET-master\machinelearning-samples-master\samples\csharp\end-to-end-apps\Recommendation-MovieRecommender\MovieRecommender_Model\bin\Debug\netcoreapp2.1\MovieRecommender_Model.runtimeconfig.dev.json
+E:\ReferenceSource\ML.NET-master\machinelearning-samples-master\samples\csharp\end-to-end-apps\Recommendation-MovieRecommender\MovieRecommender_Model\bin\Debug\netcoreapp2.1\MovieRecommender_Model.dll
+E:\ReferenceSource\ML.NET-master\machinelearning-samples-master\samples\csharp\end-to-end-apps\Recommendation-MovieRecommender\MovieRecommender_Model\bin\Debug\netcoreapp2.1\MovieRecommender_Model.pdb
+E:\ReferenceSource\ML.NET-master\machinelearning-samples-master\samples\csharp\end-to-end-apps\Recommendation-MovieRecommender\MovieRecommender_Model\obj\Debug\netcoreapp2.1\MovieRecommender_Model.csprojAssemblyReference.cache
+E:\ReferenceSource\ML.NET-master\machinelearning-samples-master\samples\csharp\end-to-end-apps\Recommendation-MovieRecommender\MovieRecommender_Model\obj\Debug\netcoreapp2.1\MovieRecommender_Model.csproj.CoreCompileInputs.cache
+E:\ReferenceSource\ML.NET-master\machinelearning-samples-master\samples\csharp\end-to-end-apps\Recommendation-MovieRecommender\MovieRecommender_Model\obj\Debug\netcoreapp2.1\MovieRecommender_Model.AssemblyInfoInputs.cache
+E:\ReferenceSource\ML.NET-master\machinelearning-samples-master\samples\csharp\end-to-end-apps\Recommendation-MovieRecommender\MovieRecommender_Model\obj\Debug\netcoreapp2.1\MovieRecommender_Model.AssemblyInfo.cs
+E:\ReferenceSource\ML.NET-master\machinelearning-samples-master\samples\csharp\end-to-end-apps\Recommendation-MovieRecommender\MovieRecommender_Model\obj\Debug\netcoreapp2.1\MovieRecommender_Model.dll
+E:\ReferenceSource\ML.NET-master\machinelearning-samples-master\samples\csharp\end-to-end-apps\Recommendation-MovieRecommender\MovieRecommender_Model\obj\Debug\netcoreapp2.1\MovieRecommender_Model.pdb
